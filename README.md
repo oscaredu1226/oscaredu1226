@@ -10,7 +10,7 @@
 <p align="left">
 🎓 INGENIERO DE SOFTWARE
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software 
 
 📝 roles en el ámbito: desarrollador... líder...  emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=gherkin,cpp,py,css,html,js,nodejs,mysql,sqlite,mongodb,git,github,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
