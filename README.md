@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋  soy Oscar Soto ✨ </h1> 
 
-<a href = "mailto:oscaredu01@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="#"  /></a>
+<a href = "mailto:oscaredu01@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="#"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
