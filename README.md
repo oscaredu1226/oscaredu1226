@@ -1,8 +1,5 @@
 <h1 align="center">Hola 👋  soy Oscar Soto ✨ </h1> 
 
-<p align="center">
-  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-
 <a href = "mailto:oscaredu01@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="#"  /></a>
   </p>
 <br>
