@@ -8,7 +8,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO DE SOFTWARE
+🎓 ESTUDIANTE DE INGENIERÍA DE SOFTWARE
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software 
 
