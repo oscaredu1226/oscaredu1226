@@ -10,9 +10,9 @@
 <p align="left">
 🎓 ESTUDIANTE DE INGENIERÍA DE SOFTWARE
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software 
+💻 ¡Hola! Soy **Oscar**, un apasionado estudiante de Ingeniería de Software actualmente cursando [año de estudio] en la [nombre de la universidad]. Desde que comencé mi viaje en el mundo de la tecnología, he estado fascinado por la capacidad de la programación para resolver problemas complejos y mejorar la vida cotidiana de las personas.
 
-📝 roles en el ámbito: desarrollador... líder...  emprendedor... programador freelance... y en un futuro quién sabe ☺️
+☺️
 
 📫 Contacto: **oscaredu01@hotmail.com**
 <!--Intro end-->
