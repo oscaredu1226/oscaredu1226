@@ -10,7 +10,7 @@
 <p align="left">
 🎓 ESTUDIANTE DE INGENIERÍA DE SOFTWARE
 
-💻 ¡Hola! Soy **Oscar**, un apasionado estudiante de Ingeniería de Software actualmente cursando el **6to ciclo** en la Universidad Peruana de Ciencias Aplicadas. Desde que comencé mi viaje en el mundo de la tecnología, he estado fascinado por la capacidad de la programación para resolver problemas complejos y mejorar la vida cotidiana de las personas ☺️
+💻 ¡Hola! Soy **Oscar**, un apasionado estudiante de Ingeniería de Software actualmente cursando el **7mo ciclo** en la Universidad Peruana de Ciencias Aplicadas. Desde que comencé mi viaje en el mundo de la tecnología, he estado fascinado por la capacidad de la programación para resolver problemas complejos y mejorar la vida cotidiana de las personas ☺️
 
 📫 Contacto: **oscaredu01@hotmail.com**
 <!--Intro end-->
